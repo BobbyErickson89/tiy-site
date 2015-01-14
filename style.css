@@ -1,0 +1,209 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: left;
+  font-size: 1.1em;
+  margin-left: 20%;
+  margin-right: 20%;
+  word-spacing: 0.15em;
+  line-height: 1.5em;
+}
+
+
+header {
+  background-color: #ae1f58;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+
+.top-nav {
+  float: right;
+  margin-top: 15px;
+  font-family: sans-serif;
+}
+
+.top-nav a {
+  padding: 10px 20px;
+  vertical-align: middle;
+}
+
+
+/* BODY */
+
+
+
+
+
+.welcome-to-tiy {
+  background-color: #eb1767;
+  color: white;
+  padding-top: 5%;
+  padding-bottom: 30px;
+}
+
+
+.apply {
+  background-color: #ae1f58;
+  width: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10%;
+  border-radius: 0.5em;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.what-is-this {
+  color: white;
+  background-image: url("http://academy.smashingboxes.com/assets/timeline_bg-c6df24fc8cdea898ad4491ad758fdbe7.jpg")
+
+}
+
+.coursetrack {
+  background-color: white;
+}
+
+.aboutacademy {
+  background-color: white;
+  color: #4D474C;
+}
+
+.instructor-profile {
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  width: 120px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.teacher-title {
+  display: block;
+  font-family: sans-serif;
+  font-size: 0.8em;
+}
+
+
+.apply-today {
+  background-color: #EEEEEE;
+  color: #4D474C;
+  padding-top: 20px;
+}
+
+.chris-davies-img,
+.mason-matthews-img,
+.clinton-img,
+.jessica-img {
+  max-height: 120px;
+  max-width: 120px;
+}
+
+/* Link Colors */
+
+.top-nav a:link{
+  color: white;
+  text-decoration: none;
+  font-style: sans-serif;
+}
+
+.top-nav a:hover{
+  text-decoration: underline;
+}
+
+.aboutacademy a{
+  color: #eb1767;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 1.3em;
+}
+
+.aboutacademy a:hover{
+  color: #c4c4c4;
+}
+
+/* heading fonts */
+
+h3,
+h4 {
+  font-family: sans-serif;
+  text-align: left;
+  font-size: 2.5em;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+/* Images */
+.welcome-to-tiy img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.coursetrack img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.map img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+
+/* TABLE */
+table {
+  font-family: sans-serif;
+  margin-right: 20%;
+  margin-left: 20%;
+  padding-bottom: 5%;
+}
+
+table thead {
+  background-color: gray;
+  color: white;
+  font-size: 0.7em;
+
+}
+
+.table-font-color {
+  color: #eb1767;
+}
+
+
+
+/* footer */
+footer {
+  background-color: #424242;
+  padding: 2% 5%;
+}
+
+.tiy-sb-footer img {
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.social-media-footer {
+  float: right;
+  padding: 5px 10px;
+}
+
+.footer-text {
+  font-family: sans-serif;
+  font-size: 0.9em;
+  color: #626360;
+}
+
+/*CONTACT LIST*/
+.contact-list {
+  background-image: url:
+}
